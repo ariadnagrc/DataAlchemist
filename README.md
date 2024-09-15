@@ -1,6 +1,6 @@
 # Data Alchemist
 
-Data Alchemist es una aplicación de escritorio diseñada para convertir archivos de Excel a formatos CSV y ARFF, facilitando el trabajo en minería de datos.
+**Data Alchemist** es una aplicación de escritorio diseñada para convertir archivos de Excel a formatos CSV y ARFF, facilitando el trabajo en minería de datos.
 
 ## Características
 
@@ -18,7 +18,7 @@ Data Alchemist es una aplicación de escritorio diseñada para convertir archivo
 
 ## Instalación
 
-Para instalar Data Alchemist, clona este repositorio y usa `pip` para instalarlo en tu entorno:
+Para instalar **Data Alchemist**, clona este repositorio y usa `pip` para instalarlo en tu entorno:
 
 ```bash
 git clone https://github.com/ariadnagrc/DataAlchemist.git
