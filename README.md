@@ -15,6 +15,7 @@
 - Dependencias:
   - `pandas`
   - `tkinterdnd2` (instalado desde GitHub)
+  - `matplotlib`
 
 ## Instalación
 
