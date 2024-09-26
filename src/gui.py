@@ -17,7 +17,8 @@ def create_gui():
     root.configure(bg="#2c2c2c")
 
     # Set icon
-    root.iconbitmap('assets/icon/DataAlchemistIcon.ico')
+    icon_path = os.path.join('assets', 'icon', 'DataAlchemistIcon.ico')
+    root.iconbitmap(icon_path)
 
     # Create main frame 
     main_frame = tk.Frame(root, bg="#2c2c2c")
