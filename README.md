@@ -14,7 +14,8 @@
 - Python 3.6 o superior
 - Dependencias:
   - `pandas`
-  - `tkinterdnd2` (instalado desde GitHub)
+  - `tkinterdnd2`
+  - `matplotlib`
 
 ## Instalación
 
