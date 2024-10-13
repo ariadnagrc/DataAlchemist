@@ -1,0 +1,3 @@
+pandas
+matplotlib
+tkinterdnd2-pmgagne @ git+https://github.com/pmgagne/tkinterdnd2.git#egg=tkinterdnd2-pmgagne
